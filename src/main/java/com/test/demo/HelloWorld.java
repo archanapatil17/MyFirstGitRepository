@@ -1,5 +1,10 @@
 package com.test.demo;
 
+import org.springframework.boot.SpringApplication;
+
 public class HelloWorld {
-    System.out.println("Test ");
+
+    public static void main(String[] args) {
+        System.out.println("Test ");
+    }
 }
